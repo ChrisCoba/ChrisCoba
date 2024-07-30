@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ComputerScience
 - 💞️ I’m looking to collaborate on making sistems for enterprises
 - 📫 How to reach me danielcoba2820@gmail.com
-- 😄 Pronouns: Chris
+- 😄 Pronouns: Chris or Danny
 
 
 <!---
