@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisCoba
 - 👀 I’m interested in Music, Videogames and Cars
-- 🌱 I’m currently learning ComputerScience
+- 🌱 Systems Engineering student
 - 💞️ I’m looking to collaborate on making sistems for enterprises
 - 📫 How to reach me danielcoba2820@gmail.com
 - 😄 Pronouns: Chris or Danny
