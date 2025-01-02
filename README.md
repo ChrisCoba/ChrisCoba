@@ -6,7 +6,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
     
 - 👀 I’m interested in Music, Videogames and Cars
-- 🌱 Systems Engineering student
+- 🌱 Now learning React
 - 💞️ I’m looking to collaborate on making sistems for enterprises
 - 📫 How to reach me danielcoba2820@gmail.com
 
